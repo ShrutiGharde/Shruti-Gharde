@@ -1,5 +1,3 @@
-# Shruti-Gharde
-Hello
 <h1 align="center">Hi 👋, I'm Shruti Gharde</h1>
 <h3 align="center">Business Analytics MBA + Data Science Cert | Delivering Actionable Insights for Smarter Decisions</h3>
 
