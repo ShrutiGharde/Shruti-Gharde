@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Gharde</h1>
-<h3 align="center">Business Analytics MBA + Data Science Cert | Delivering Actionable Insights for Smarter Decisions</h3>
+<h3 align="center">Business Analytics MBA + Data Science Cert</h3>
 
 - 🔭 I’m currently working on **Data Analyst Projects**
 
